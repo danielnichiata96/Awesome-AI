@@ -135,6 +135,7 @@
 | [WriteSparkle](https://writesparkle.ai/?ref=awe50meAI) |  Discover AI-Driven Brilliance, streamline your content creation process by seamlessly integrating Writesparkle with your favorite tools and platforms.  |
 | [flawlessly ai](https://flawlessly.ai/?ref=awe50meAI) |  Flawlessly.Ai transforms your spelling, grammar, tone, and style into professional text in seconds. |
 | [PDFPeer](https://pdfpeer.com/) |  Engage with your PDFs: summarize, ask questions, and simplify tasks! |
+| [CiteMe](https://citeme.app/?ref=awe50meAI) |     AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles (APA, ABNT, MLA, Chicago). Available as web app, Chrome extension, Google Docs add-on, and Word add-in.  |
 
 ## video tools
 | Awesome | Description |
